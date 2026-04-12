@@ -154,9 +154,8 @@ MIT — free to use, modify, and distribute.
 
 ## About the Builder
 
-**Built by** — **Ifechukwu Okuma**
-
-**Last updated** — **10 April 2026**
+**Built by** — [Ifechukwu Okuma](https://github.com/ifechukwuokuma)  
+**Last updated** — April 10, 2026
 
 
 
