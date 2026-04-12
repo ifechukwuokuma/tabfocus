@@ -24,7 +24,7 @@ TabFocus fixes this instantly — no manual cleanup, no interruptions.
 
 > *(Add a GIF or screenshot here — this is critical for credibility)*
 
-![TabFocus Demo](./assets/demo.gif)
+![https://github.com/ifechukwuokuma/tabfocus/blob/main/asset/tabfocus-demo.jpg](tabfocus-site/asset/tabfocus-demo.jpg)
 
 ---
 
