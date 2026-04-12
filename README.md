@@ -22,8 +22,6 @@ TabFocus fixes this instantly — no manual cleanup, no interruptions.
 
 ## Demo
 
-> *(Add a GIF or screenshot here — this is critical for credibility)*
-
 ![https://github.com/ifechukwuokuma/tabfocus/blob/main/asset/tabfocus-demo.jpg](tabfocus-site/asset/tabfocus-demo.jpg)
 
 ---
