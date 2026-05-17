@@ -2,7 +2,7 @@
 
 **Stop opening the same tab twice. Stay focused automatically.**
 
-TabFocus is a Chrome extension that detects duplicate tabs the moment they open, closes the extra one, and takes you back to the original — keeping your workspace clean without any effort.
+TabFocus is a Chrome extension that detects duplicate tabs the moment they open, closes the extra one, and takes you back to the original, keeping your workspace clean without any effort.
 
 ---
 
